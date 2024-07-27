@@ -7,6 +7,8 @@
 
 ### 002 运行
 运行当前目录下的`main.py`即可。
+Tesseract工具的文字识别于`getImageText.py`中；
+Retinex算法的实现于`imageProcess.py`中。
 
 ### 003 示例
 ![image_example_1](examples/image_example_1.png "初始界面")
