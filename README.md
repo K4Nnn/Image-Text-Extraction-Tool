@@ -6,7 +6,7 @@
 3. 进一步预实现：图像裁剪技术，以获取图像的特定区域。
 
 ### 002 运行
-运行当前目录下的main.py即可。
+运行当前目录下的`main.py`即可。
 
 ### 003 示例
 ![image_example_1](examples/image_example_1.png "初始界面")
